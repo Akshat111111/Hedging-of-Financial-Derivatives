@@ -1,3 +1,47 @@
+# Hedging of Financial Derivative 
+
+
+Work In Progress
+We are building a robust code snippet  tool which is based on :
+
+
+-Financial Programming
+
+-Deep Learning
+
+-Machine Learning
+
+## Contributing
+
+**Star** the repo on GitHub.
+In general, we follow the "fork-and-pull" Git workflow.
+
+1.  **Fork** the repo on GitHub
+2.  **Clone** the project to your own machine
+3.  **Commit** changes to your own branch
+4.  **Push** the code
+5.  Submit a **Pull request** so that we can review your changes
+
+This project relies heavily on issues.
+
+Ideas are an important source of contribution.
+
+We appreciate your feedback! We encourage you to contribute to this repository in the most straightforward and transparent way possible, whether it's:
+
+Reporting a bug
+Discussing the current state of the code
+Submitting a fix
+Proposing new features or Implementation
+
+
+
+
+
+
+
+
+
+
 # Hedging of Financial Derivative
 
 A Hedging is a market neutral trading strategy enabling traders to profit from virtually any market conditions: uptrend, downtrend, or sideways movement. This strategy is categorized as a statistical arbitrage and convergence trading strategy.<br>
