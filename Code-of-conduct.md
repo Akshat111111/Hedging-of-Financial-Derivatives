@@ -1,4 +1,4 @@
-# Code of Conduct - Javascript-projects
+# Code of Conduct - 
 
 ## Our Pledge
 
