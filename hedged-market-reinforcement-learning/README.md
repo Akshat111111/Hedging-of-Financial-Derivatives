@@ -38,7 +38,7 @@ The reinforcement learning algorithm used in this project makes decisions based 
 
 ## Contributors
 
-- [Your Name] - [Your Contact Information]
+- Aditya D https://www.github.com/adi271001
 
 Feel free to contribute to this project by adding new features, improving existing algorithms, or providing feedback on the implementation.
 
