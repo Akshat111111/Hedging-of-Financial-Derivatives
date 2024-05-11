@@ -47,7 +47,7 @@ We use GitHub issues to manage tasks. Feel free to open an issue for bugs, sugge
 
 ## Code of Conduct
 
-We maintain a Code of Conduct to ensure a welcoming environment for all contributors. Please review and follow our [Cpde of Conduct](Code-of-conduct.md)
+We maintain a Code of Conduct to ensure a welcoming environment for all contributors. Please review and follow our [Code of Conduct](Code-of-conduct.md)
 
 Thank you for your interest in contributing to the Financial Derivative Hedging Project!
 
