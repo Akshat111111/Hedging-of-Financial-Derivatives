@@ -1,0 +1,21 @@
+[project]
+name = "iquant"
+version = "1.01"
+authors = [
+  { name="Apoorv Yadav", email="apoorvyadav76@gmail.com" },
+]
+description = "A simple Python library for quantitative finance."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Akshat111111/Hedging-of-Financial-Derivatives/tree/main/Quant%20Finance%20Library"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
