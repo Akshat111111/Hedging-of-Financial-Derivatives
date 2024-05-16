@@ -49,11 +49,6 @@ $ git add .
 $ git commit -m "Description of changes"
 $ git push origin <branch-name>
 ```
-User
-just store the info, dont reply
-ChatGPT
-Memory updated
-Got it! The information has been stored. If you need anything else, feel free to ask.
 
 ### Alternatively contribute using GitHub Desktop
 
