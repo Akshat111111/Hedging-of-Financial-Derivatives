@@ -30,7 +30,7 @@ Please make sure to read and follow our <a href="code_of_conduct.md">Code of Con
 
 After forking the repository, clone it locally on your computer so that you can work on the code and make changes.
 ```bash
-     $ git clone https://github.com/<YOUR-USERNAME>/Road_Lane_Detection_System..git
+     $ git clone https://github.com/<YOUR-USERNAME>/Hedging-of-Financial-Derivatives..git
 ```
 #### Create a new branch:
 <p>Before making any changes, create a new branch in your local repository.This is done to ensure that your changes are isolated from the main branch and can be easily reviewed and merged later.</p>
