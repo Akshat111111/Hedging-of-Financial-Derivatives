@@ -4,6 +4,13 @@ Welcome to Hedging of Financial Derivative! 📈
 
 This project focuses on implementing a robust trading strategy using statistical arbitrage and convergence techniques for hedging financial derivatives.
 
+## Video Description of the Project and Repository Overview
+
+
+https://github.com/JagjeetChauhan/Hedging-of-Financial-Derivatives/assets/98844703/52dd14f7-be7f-4684-a148-3c6192a735b7
+
+
+
 ## Overview 📊
 
 The project utilizes:
@@ -64,6 +71,7 @@ Thanks to These Amazing People :grinning:
 * Abirami Gurushanker ([Abirami Gurushanker](https://github.com/A-b-i-r-a-m-i-G-S))
 * Titiksha Agrawal ([AgrawalTitiksha](https://github.com/AgrawalTitiksha))
 * Jagjeet Singh Chauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan))
+
 
 ## Code Guidelines 📝
 
