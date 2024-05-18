@@ -68,7 +68,10 @@ Thanks to These Amazing People :grinning:
 * adi271001 ([adi271001](https://github.com/adi271001))
 * Su-creator-spec ([Su-creator-spec](https://github.com/Su-creator-spec))
 * Pranshu-jais ([Pranshu-jais](https://github.com/Pranshu-jais))
-* JagjeetChauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan)
+* Abirami Gurushanker ([Abirami Gurushanker](https://github.com/A-b-i-r-a-m-i-G-S))
+* Titiksha Agrawal ([AgrawalTitiksha](https://github.com/AgrawalTitiksha))
+* Jagjeet Singh Chauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan))
+
 
 ## Code Guidelines 📝
 
