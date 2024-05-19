@@ -68,7 +68,10 @@ Thanks to These Amazing People :grinning:
 * adi271001 ([adi271001](https://github.com/adi271001))
 * Su-creator-spec ([Su-creator-spec](https://github.com/Su-creator-spec))
 * Pranshu-jais ([Pranshu-jais](https://github.com/Pranshu-jais))
-* JagjeetChauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan)
+* Abirami Gurushanker ([Abirami Gurushanker](https://github.com/A-b-i-r-a-m-i-G-S))
+* Titiksha Agrawal ([AgrawalTitiksha](https://github.com/AgrawalTitiksha))
+* Jagjeet Singh Chauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan))
+
 
 ## Code Guidelines 📝
 
@@ -84,7 +87,7 @@ We use GitHub issues to manage tasks. Feel free to open an issue for bugs, sugge
 
 ## Code of Conduct 🤝
 
-We maintain a Code of Conduct to ensure a welcoming environment for all contributors. Please review and follow our [Code of Conduct](link_to_code_of_conduct).
+We maintain a Code of Conduct to ensure a welcoming environment for all contributors. Please review and follow our [Code of Conduct](https://github.com/Akshat111111/Hedging-of-Financial-Derivatives/blob/main/Code-of-conduct.md).
 
 Thank you for your interest in contributing to the Financial Derivative Hedging Project! 🙌
 
