@@ -1,0 +1,17 @@
+name: 'iquant'
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/
+      - name: 
+        uses: actions/
+        with:
+          python-version: 3.12  # Adjust Python version as needed
