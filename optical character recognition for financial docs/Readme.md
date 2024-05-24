@@ -1,4 +1,4 @@
-**Financial Document OCR Tool
+**Financial Document OCR Tool<br>
 <br>
 Overview** <br>
 The Financial Document OCR Tool is a Python-based utility designed to extract text from financial documents, including balance sheets, income statements, and other financial reports. The tool leverages the Tesseract OCR engine with deep learning-based LSTM (Long Short-Term Memory) models to accurately recognize and extract text from images.
