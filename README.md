@@ -71,6 +71,7 @@ Thanks to These Amazing People :grinning:
 * Abirami Gurushanker ([Abirami Gurushanker](https://github.com/A-b-i-r-a-m-i-G-S))
 * Titiksha Agrawal ([AgrawalTitiksha](https://github.com/AgrawalTitiksha))
 * Jagjeet Singh Chauhan ([JagjeetChauhan](https://github.com/JagjeetChauhan))
+* Srijan Sarkar ([SrijanSarkar](https://github.com/Srijansarkar17))
 
 
 ## Code Guidelines 📝
