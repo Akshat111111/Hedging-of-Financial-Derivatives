@@ -112,7 +112,7 @@ Hedging is a market-neutral trading strategy that enables traders to profit from
 Thanks to all the contributors for helping this project grow! 🍻
 
 <a href="https://github.com/Akshat111111/Hedging-of-Financial-Derivatives/graphs/contributors">
-<img src=" https://contrib.rocks/image?repo=Akshat111111/Hedging-of-Financial-Derivatives" />
+<img src="https://contrib.rocks/image?repo=Akshat111111/Hedging-of-Financial-Derivatives" />
 </a>
 
 ## 🙏 Support
