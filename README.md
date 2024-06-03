@@ -123,5 +123,5 @@ Don't forget to leave a star ⭐ for this project!
 
 Crafted with ♥ by @Akshat111111
 
-[Back to Top](#top)
+<p align="right"><a href="#top">Back to top</a></p>
 
