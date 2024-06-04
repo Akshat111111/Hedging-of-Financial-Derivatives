@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Hedging of Financial Derivative 💼
 
 Welcome to Hedging of Financial Derivative! 📈
@@ -106,4 +108,20 @@ Hedging is a market-neutral trading strategy that enables traders to profit from
    - Exit positions when the Z-score approaches zero
 4. **Backtesting**: Test the strategy on historical data to evaluate performance.
 5. **Portfolio Returns**: Calculate and analyze the returns of the portfolio based on the strategy.
+
+## 💪 Thanks to all Contributors
+
+Thanks to all the contributors for helping this project grow! 🍻
+
+<a href="https://github.com/Akshat111111/Hedging-of-Financial-Derivatives/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Akshat111111/Hedging-of-Financial-Derivatives" />
+</a>
+
+## 🙏 Support
+
+Don't forget to leave a star ⭐ for this project!
+
+Crafted with ♥ by @Akshat111111
+
+<p align="right"><a href="#top">Back to top</a></p>
 
