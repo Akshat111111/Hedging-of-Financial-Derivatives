@@ -11,3 +11,7 @@ Powered by Streamlit and popular Pytho libraries, this user-friendly tool provid
 ```bash
    streamlit run app.py
 ```
+
+## App Demo
+https://github.com/Shivani-Sharma-23/Hedging-of-Financial-Derivatives/assets/112687652/0ab43d91-2f31-4fbd-b62f-bbcf1cb9dd58
+
