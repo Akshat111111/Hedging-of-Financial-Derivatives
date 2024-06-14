@@ -8,7 +8,7 @@
   <img width="832" alt="Screenshot 2024-06-14 112026" src="https://github.com/Pranshu-jais/Hedging-of-Financial-Derivatives/assets/150207373/55186bf9-717b-40e2-8d66-712ae2667fdd">
 
   # Prerequisites:
-  *[Python 3.9](https://www.python.org/downloads/)
+  *[Python 3.9](https://www.python.org/downloads/) (ensure Python is added to [PATH])
 
 
    
