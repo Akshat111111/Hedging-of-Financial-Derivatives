@@ -6,7 +6,7 @@ The Entire demonstration of how this scrapping web application based on streamli
 
 ## Data Set
 
-for Ticker information fetching of companies under Ticker information section the dataset availabel on internet is scrapped in json format which is listed in file ticker.json.
+for Ticker information fetching of companies under Ticker information section the dataset available on internet is scrapped in json format which is listed in file ticker.json.
 
 ## Methodology
 
