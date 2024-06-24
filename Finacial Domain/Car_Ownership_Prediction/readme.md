@@ -61,6 +61,12 @@ The project follows the below structured methodology ranging from data preproces
 7. **plotly** : for 3D data visualizations .
 8. **Streamlit** : for creating gui of the web application.
 
+## Tesla (Car company) Stock price Prediction
+
+Along wiht these you can see Tesla stock price prediction in carcompnay_tesla_stock_prediction.ipynb file and its dataset scrapped from yahoo fianance in csv file of TLSA_historic_data.csv.
+
+The stock price for next day , next month and next year is predicted using LSTM. A detailed analysis of Data as well as EDA is performed.
+
 
 ## How to Use
 
