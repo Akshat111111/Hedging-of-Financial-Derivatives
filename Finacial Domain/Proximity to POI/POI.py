@@ -46,7 +46,7 @@ preprocessor = ColumnTransformer(
 # Define the full pipeline including polynomial features and the regression model
 pipeline = Pipeline(steps=[
     ('preprocessor', preprocessor),
-    ('poly_features', PolynomialFeatures(degree=2, include_bias=False)),
+    ('poly_features', PolynomialFeatures(include_bias=False)),
     ('model', LinearRegression())
 ])
 
@@ -54,7 +54,7 @@ pipeline = Pipeline(steps=[
 param_grid = {
     'poly_features__degree': [1, 2, 3],
     'model': [LinearRegression(), Ridge(), Lasso()],
-    'model__alpha': [0.1, 1.0, 10.0] if 'alpha' in grid_search.best_params_ else [0]
+    'model__alpha': [0.1, 1.0, 10.0]
 }
 
 # Split data into training and testing sets
