@@ -84,3 +84,7 @@ The project follows the below structured methodology ranging from data preproces
 4. **View Results**:  The script will allow you to predict or estimate the salary of a men/women based on various factors like age , year of experience ,education level and post held at office using four different machine learning techniques. The final web application model using streamlit package from python is fitted with the model having highest accuracy (XGBOOST 92%) to predict the salary of different users.
 
 ## Demo 
+
+
+https://github.com/user-attachments/assets/be38bc3c-b212-455c-af23-4d938dc75d87
+
