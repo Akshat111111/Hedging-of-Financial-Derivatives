@@ -69,3 +69,7 @@ The project follows the below structured methodology ranging from data preproces
     ```
 
 4. **View Results**: The script will allow you to predict the estimated price of diamonds.
+
+
+https://github.com/user-attachments/assets/a8ca168c-0b69-4ab2-9738-a6bea69206a5
+
