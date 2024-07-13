@@ -1,0 +1,12 @@
+### Dependencies to install before implementations 
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+stable-baselines3[extra]
+gym
+tensorflow
+torch
+plotly
+jupyter
