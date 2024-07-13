@@ -1,4 +1,4 @@
-#  Car ownership prediction using Machine learning
+#  Diamond price prediction using Machine learning
 
 This Streamlit application predicts diamond prices based on user-input diamond characteristics and provides dynamic information about diamonds fetched from a website. It incorporates a machine learning model trained to predict diamond prices using features like carat weight, cut, color, clarity, and dimensions. Users can interactively input these attributes through a user-friendly interface and receive predicted price estimates instantly.
 
