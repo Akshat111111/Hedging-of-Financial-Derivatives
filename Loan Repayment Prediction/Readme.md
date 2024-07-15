@@ -9,8 +9,6 @@ This project aims to predict loan repayment using machine learning techniques. T
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
