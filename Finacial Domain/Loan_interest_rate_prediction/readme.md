@@ -65,6 +65,11 @@ The project follows the below structured methodology ranging from data preproces
 7. **plotly** : for 3D data visualizations .
 8. **Streamlit** : for creating gui of the web application.
 
+###DEMO
+
+
+https://github.com/user-attachments/assets/0036d5b1-896e-43e1-9012-5f6b8c6b8c41
+
 
 ## How to Use
 
