@@ -1,0 +1,1000 @@
+address1	One Dell Way
+city	Round Rock
+state	TX
+zip	78682
+country	United States
+phone	800 289 3355
+website	https://www.delltechnologies.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Dell Technologies Inc. designs, develops, manufactures, markets, sells, and supports various comprehensive and integrated solutions, products, and services in the Americas, Europe, the Middle East, Asia, and internationally. The company operates through two segments, Infrastructure Solutions Group (ISG) and Client Solutions Group (CSG). The ISG segment provides traditional and next-generation storage solutions, including all-flash arrays, scale-out file, object platforms, hyper-converged infrastructure, and software-defined storage; and rack, blade, tower, and hyperscale servers. This segment also offers networking products and services that help its business customers to transform and modernize their infrastructure, mobilize and enrich end-user experiences, and accelerate business applications and processes; attached software and peripherals; and support and deployment, configuration, and extended warranty services. The CSG segment provides desktops, workstations, and notebooks; displays, docking stations, and other electronics; and third-party software and peripherals, as well as support and deployment, configuration, and extended warranty services. The company is also involved in the provision of cybersecurity technology-driven security solutions to prevent security breaches, detect malicious activity, respond rapidly when a security breach occurs, and identify emerging threats; originating, collecting, and servicing customer financing arrangements; and infrastructure-as-a-service solutions, as well as in the resale of VMware products and services. The company was formerly known as Denali Holding Inc. and changed its name to Dell Technologies Inc. in August 2016. Dell Technologies Inc. was founded in 1984 and is headquartered in Round Rock, Texas.
+fullTimeEmployees	133000
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Michael Saul Dell', 'age': 57, 'title': 'Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 2797308, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey W. Clarke', 'age': 59, 'title': 'COO & Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 2853441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William F. Scannell', 'age': 60, 'title': 'President of Global Sales & Customer Operations', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1931384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvonne  McGill', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brunilda  Rios', 'age': 56, 'title': 'Senior VP of Corporate Finance & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Rothberg Esq.', 'age': 58, 'title': 'General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1727358, 'exercisedValue': 24596768, 'unexercisedValue': 20991448}, {'maxAge': 1, 'name': 'Ms. Allison  Dew', 'age': 52, 'title': 'Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2273277, 'exercisedValue': 0, 'unexercisedValue': 7912755}, {'maxAge': 1, 'name': 'Mr. Michael  Zimmerman', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jennifer D. Saavedra Ph.D.', 'age': 52, 'title': 'Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard D. Elias', 'age': 64, 'title': 'Chief Customer Officer and President of Services & Digital', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 6171429, 'exercisedValue': 4068717, 'unexercisedValue': 0}]
+auditRisk	7
+boardRisk	9
+compensationRisk	3
+shareHolderRightsRisk	10
+overallRisk	9
+governanceEpochDate	1696118400
+compensationAsOfEpochDate	1703980800
+maxAge	86400
+priceHint	2
+previousClose	67.76
+open	67.26
+dayLow	66.7
+dayHigh	68.645
+regularMarketPreviousClose	67.76
+regularMarketOpen	67.26
+regularMarketDayLow	66.7
+regularMarketDayHigh	68.645
+dividendRate	1.48
+dividendYield	0.0218
+exDividendDate	1698019200
+payoutRatio	0.5385
+beta	0.899
+trailingPE	26.115387
+forwardPE	9.956012
+volume	4065220
+regularMarketVolume	4065220
+averageVolume	4792907
+averageVolume10days	5914220
+averageDailyVolume10Day	5914220
+bid	0
+ask	0
+bidSize	1000
+askSize	800
+marketCap	49120694272
+fiftyTwoWeekLow	33.9
+fiftyTwoWeekHigh	72.82
+priceToSalesTrailing12Months	0.52470404
+fiftyDayAverage	64.3104
+twoHundredDayAverage	49.78645
+trailingAnnualDividendRate	1.4
+trailingAnnualDividendYield	0.020661157
+currency	USD
+enterpriseValue	68861665280
+profitMargins	0.02034
+floatShares	244315646
+sharesOutstanding	254312000
+sharesShort	9529693
+sharesShortPriorMonth	6485647
+sharesShortPreviousMonthDate	1693440000
+dateShortInterest	1695945600
+sharesPercentSharesOut	0.013200001
+heldPercentInsiders	0.03323
+heldPercentInstitutions	0.77109003
+shortRatio	1.48
+shortPercentOfFloat	0.0388
+impliedSharesOutstanding	723427008
+bookValue	-3.829
+lastFiscalYearEnd	1675382400
+nextFiscalYearEnd	1706918400
+mostRecentQuarter	1691107200
+earningsQuarterlyGrowth	-0.096
+netIncomeToCommon	1904000000
+trailingEps	2.6
+forwardEps	6.82
+pegRatio	13.51
+lastSplitFactor	1989:40:00
+lastSplitDate	1635811200
+enterpriseToRevenue	0.736
+enterpriseToEbitda	8.404
+52WeekChange	0.9686866
+SandP52WeekChange	0.18349409
+lastDividendValue	0.37
+lastDividendDate	1690156800
+exchange	NYQ
+quoteType	EQUITY
+symbol	DELL
+underlyingSymbol	DELL
+shortName	Dell Technologies Inc.
+longName	Dell Technologies Inc.
+firstTradeDateEpochUtc	1471440600
+timeZoneFullName	America/New_York
+timeZoneShortName	EDT
+uuid	04c74ad6-2535-3f70-9335-6e441ef69610
+messageBoardId	finmb_266017
+gmtOffSetMilliseconds	-14400000
+currentPrice	67.9
+targetHighPrice	89
+targetLowPrice	53
+targetMeanPrice	74.07
+targetMedianPrice	79
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	14
+totalCash	8364000256
+totalCashPerShare	11.562
+ebitda	8193999872
+totalDebt	28010000384
+quickRatio	0.47
+currentRatio	0.766
+totalRevenue	93615996928
+revenuePerShare	129.393
+returnOnAssets	0.03716
+grossProfits	22686000000
+freeCashflow	5964624896
+operatingCashflow	8101000192
+earningsGrowth	-0.074
+revenueGrowth	-0.132
+grossMargins	0.23358999
+ebitdaMargins	0.08753
+operatingMargins	0.0508
+financialCurrency	USD
+trailingPegRatio	10.0779
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
