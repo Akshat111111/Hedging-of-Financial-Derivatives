@@ -1,6 +1,0 @@
-require libraries->
-tensorflow
-gym
-pandas
-numpy 
-matplotlib
