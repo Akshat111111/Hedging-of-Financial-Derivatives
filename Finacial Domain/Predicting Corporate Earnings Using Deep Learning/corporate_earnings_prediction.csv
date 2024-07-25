@@ -1,0 +1,5 @@
+Date,Company,Revenue,Net_Income,Earnings_Per_Share,Operating_Cash_Flow,Gross_Margin,Profit_Margin,Total_Assets,Total_Liabilities,Debt_to_Equity_Ratio,Market_Cap,P_E_Ratio,Dividend_Yield,Sector,Economic_Indicator_1,Economic_Indicator_2,Target_Earnings
+2024-07-24 05:21:36.845112,Company_A,5000000,500000,2.5,700000,40,10,15000000,5000000,0.3,20000000,15,2.5,Technology,5.0,3.0,520000
+2024-06-24 05:21:36.845126,Company_B,6000000,600000,3.0,800000,45,12,16000000,6000000,0.35,22000000,18,3.0,Healthcare,4.5,3.2,610000
+2024-05-25 05:21:36.845129,Company_A,5200000,520000,2.6,720000,42,11,15200000,5100000,0.31,20500000,16,2.6,Technology,5.1,3.1,530000
+2024-04-25 05:21:36.845131,Company_B,6200000,610000,3.1,810000,46,13,16200000,6100000,0.34,22500000,19,3.1,Healthcare,4.6,3.3,620000
