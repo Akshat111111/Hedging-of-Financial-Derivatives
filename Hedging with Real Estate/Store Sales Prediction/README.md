@@ -1,34 +1,38 @@
-**PROJECT TITLE**
-Store Sales Prediction using Deep Learning
+# Store Sales Prediction using Deep Learning
 
-**GOAL**
-Store Sales Prediction using Deep Learning
+## Goal
+The goal of this project is to predict store sales using deep learning techniques, specifically Recurrent Neural Networks (RNNs), and to compare their performance with traditional regression models such as Lasso, Ridge, and Decision Tree regression.
 
-**DATASET**
-https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
+## Dataset
+The dataset used for this project is from the Kaggle competition: [Store Sales Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview).
 
-**DESCRIPTION**
-The project uses RNN to make predictions for store sales.Dataset is  updated daily and is dynamic. The project also aims to compare performance of Lasso, Ridge and Decision Tree regression models with respect to the use of Regression models
+## Description
+This project utilizes RNNs to make predictions for store sales. The dataset is updated daily and is dynamic. The project also aims to compare the performance of various regression models, including Lasso, Ridge, and Decision Tree regression, with the RNN models.
 
-**WHAT I HAD DONE**
-1. Used EDA and correlation matrix to figure out needed features
-2. Tested using basic ML models like Ridge, Lasso, Linear and Decision Tree Regression
-3. Tested using RNNs. Used multilayer networks for time-series data
-4. RNNs have proven to be far more useful and versatile
+## What I Have Done
+1. Conducted Exploratory Data Analysis (EDA) and used a correlation matrix to identify important features.
+2. Tested basic machine learning models such as Ridge, Lasso, Linear, and Decision Tree Regression.
+3. Tested RNNs, including multilayer networks for time-series data.
+4. Found that RNNs are more useful and versatile for this task.
 
-**MODELS USED**
-Lasso Regression, Ridge Regression,Decision Tree Regression, RNN
+## Models Used
+- Lasso Regression
+- Ridge Regression
+- Decision Tree Regression
+- Recurrent Neural Networks (RNN)
 
-**LIBRARIES NEEDED**
-Pandas, Numpy, Keras,TensorFlow, ScikitLearn, Seaborn, Matplotlib
+## Libraries Needed
+- Pandas
+- Numpy
+- Keras
+- TensorFlow
+- Scikit-Learn
+- Seaborn
+- Matplotlib
 
-**VISUALIZATION**
- We use correlation matrix to visualize required features.
- Line Charts are used to visualize day/month/store wise sales 
+## Installation
+To install the required libraries, you can use the following command:
+```bash
+pip install pandas numpy keras tensorflow scikit-learn seaborn matplotlib
 
-**ACCURACIES**
-MAE is lowest for RNNs at 55 to 70.
-The highest MAE is provided by Linear Regression at 1000+ and considerably better by Lasso Regression and Decision Tree at a little over 100.
 
-**CONCLUSION**
-Recurrent Neural Networks (RNNs) are employed for time series data due to their ability to capture temporal dependencies. RNNs maintain a memory of past information, enabling them to process sequential data with contextual awareness. This makes them well-suited for tasks such as stock price prediction or weather forecasting, where understanding patterns over time is crucial. The recurrent nature of RNNs facilitates the modeling of dynamic relationships within time series datasets, enhancing their effectiveness in capturing temporal dependencies.
