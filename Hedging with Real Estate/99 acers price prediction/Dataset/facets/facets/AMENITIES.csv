@@ -1,0 +1,34 @@
+id,category,type,label
+25,Other Features,FEATURES_RESIDENTIAL,Waste Disposal
+26,Other Features,FEATURES_RESIDENTIAL,Rain Water Harvesting
+28,Other Features,FEATURES_COMMERCIAL,Bank Attached Property
+2,Property Feature,FEATURES_COMMERCIAL,Power Back-up
+5,Property Feature,FEATURES_RESIDENTIAL,Feng Shui / Vaastu Compliant
+8,Property Feature,FEATURES_RESIDENTIAL,Private Garden / Terrace
+10,Property Feature,FEATURES_COMMERCIAL,Centrally Air Conditioned
+17,Property Feature,FEATURES_RESIDENTIAL,Security / Fire Alarm
+20,Property Feature,FEATURES_RESIDENTIAL,Intercom Facility
+24,Property Feature,FEATURES_RESIDENTIAL,Water Storage
+29,Property Feature,FEATURES_RESIDENTIAL,Piped-gas
+32,Property Feature,FEATURES_RESIDENTIAL,Water purifier
+39,Property Feature,FEATURES_COMMERCIAL,Near Bank
+1,Society/Building Feature,FEATURES_RESIDENTIAL,Swimming Pool
+3,Society/Building Feature,FEATURES_COMMERCIAL,Club house / Community Center
+6,Society/Building Feature,FEATURES_RESIDENTIAL,Park
+9,Society/Building Feature,FEATURES_RESIDENTIAL,Security Personnel
+12,Society/Building Feature,FEATURES_RESIDENTIAL,Fitness Centre / GYM
+19,Society/Building Feature,FEATURES_RESIDENTIAL,Visitor Parking
+21,Society/Building Feature,FEATURES_RESIDENTIAL,Lift(s)
+23,Society/Building Feature,FEATURES_RESIDENTIAL,Maintenance Staff
+33,Society/Building Feature,FEATURES_COMMERCIAL,Shopping Centre
+34,Society/Building Feature,FEATURES_COMMERCIAL,WheelChair Accessibilitiy
+35,Society/Building Feature,FEATURES_COMMERCIAL,DG Availability
+36,Society/Building Feature,FEATURES_COMMERCIAL,CCTV Surveillance
+37,Society/Building Feature,FEATURES_COMMERCIAL,Grade A Building
+38,Society/Building Feature,FEATURES_COMMERCIAL,Grocery Shop
+11,,FEATURES_COMMERCIAL,ATM
+13,,FEATURES_COMMERCIAL,Cafeteria / Food Court
+15,,FEATURES_COMMERCIAL,Bar / Lounge
+16,,FEATURES_COMMERCIAL,Conference room
+22,,FEATURES_COMMERCIAL,Service / Goods Lift
+27,,FEATURES_COMMERCIAL,Access to High Speed Internet
