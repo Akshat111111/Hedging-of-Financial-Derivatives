@@ -2,7 +2,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import joblib
-
 def train_model(df):
     X = df.drop('target', axis=1)
     y = df['target']
@@ -11,7 +10,6 @@ def train_model(df):
     model.fit(X_train, y_train)
     joblib.dump(model, 'path/to/model.pkl')
     return model
-
 if __name__ == "__main__":
     df = pd.read_csv('path/to/features_data.csv')
     model = train_model(df)
