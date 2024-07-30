@@ -1,0 +1,235 @@
+,country,name,full_name,isin,currency,symbol
+0,spain,ACS,ACS Actividades de Construccion y Servicios SA,ES0167050915,EUR,ACS
+1,spain,Abengoa,Abengoa,ES0105200416,EUR,ABG
+2,spain,Atresmedia,Atresmedia,ES0109427734,EUR,A3M
+3,spain,Acerinox,Acerinox,ES0132105018,EUR,ACX
+4,spain,BBVA,BBVA,ES0113211835,EUR,BBVA
+5,spain,Bankinter,Bankinter,ES0113679I37,EUR,BKT
+6,spain,BME,Bolsas y Mercados Espanoles,ES0115056139,EUR,BME
+7,spain,Acciona,Acciona,ES0125220311,EUR,ANA
+8,spain,Caixabank,Caixabank SA,ES0140609019,EUR,CABK
+9,spain,Enagas,Enagas,ES0130960018,EUR,ENAG
+10,spain,FCC,FCC,ES0122060314,EUR,FCC
+11,spain,Naturgy Energy,Naturgy Energy Group SA,ES0116870314,EUR,NTGY
+12,spain,Gamesa,Siemens Gamesa Renewable Energy SA,ES0143416115,EUR,SGREN
+13,spain,Grifols,Grifols SA,ES0171996087,EUR,GRLS
+14,spain,Ferrovial,Ferrovial,ES0118900010,EUR,FER
+15,spain,Red Electrica,Red Electrica Corporacion SA,ES0173093024,EUR,REE
+16,spain,Inditex,Inditex,ES0148396007,EUR,ITX
+17,spain,Repsol,Repsol,ES0173516115,EUR,REP
+18,spain,Iberdrola,Iberdrola,ES0144580Y14,EUR,IBE
+19,spain,Indra A,Indra A,ES0118594417,EUR,IDR
+20,spain,Mapfre,Mapfre,ES0124244E34,EUR,MAP
+21,spain,Telefonica,Telefonica,ES0178430E18,EUR,TEF
+22,spain,Mediaset,Mediaset ESP,ES0152503035,EUR,TL5
+23,spain,Sacyr,Sacyr SA,ES0182870214,EUR,SCYR
+24,spain,B. Sabadell,B. Sabadell,ES0113860A34,EUR,SABE
+25,spain,Santander,Banco Santander,ES0113900J37,EUR,SAN
+26,spain,Inmobiliaria Colonial,Inmobiliaria Colonial SA,ES0139140174,EUR,COL
+27,spain,Tecnicas Reunidas,Tecnicas Reunidas,ES0178165017,EUR,TRE
+28,spain,OHL,Obrascon Huarte Lain SA,ES0142090317,EUR,OHL
+29,spain,IAG,International Consolidated Airlines Group SA,ES0177542018,EUR,ICAG
+30,spain,Ebro Foods,Ebro Foods,ES0112501012,EUR,EBRO
+31,spain,Endesa,Endesa SA,ES0130670112,EUR,ELE
+32,spain,Amadeus,Amadeus IT,ES0109067019,EUR,AMA
+33,spain,Bankia,Bankia SA,ES0113307062,EUR,BKIA
+34,spain,DIA,Distribuidora Internacional de Alimentacion SA,ES0126775032,EUR,DIDA
+35,spain,Vertice 360 Grados,Vertice Trescientos Sesenta Grados,ES0183304312,EUR,VTSG
+36,spain,Laborat.Rovi,Laboratorios Farmaceuticos ROVI,ES0157261019,EUR,ROVI
+37,spain,General Alquiler Maquinaria,General de Alquiler de Maquinaria SA,ES0141571192,EUR,GALQ
+38,spain,Solaria,Solaria,ES0165386014,EUR,SLRS
+39,spain,Airtificial Intelligence,Airtificial Intelligence Structures SA,ES0152768612,EUR,AI
+40,spain,Alantra Partners,Alantra Partners SA,ES0126501131,EUR,ALNTA
+41,spain,Alba SA,Corporacion Financiera Alba SA,ES0117160111,EUR,ALB
+42,spain,Promotora Informaciones,Promotora de Informaciones SA,ES0171743901,EUR,PRS
+43,spain,Melia Hotels,Melia Hotels,ES0176252718,EUR,MEL
+44,spain,Empresarial San Jose,Grupo Empresarial San Jose SA,ES0180918015,EUR,GSJ
+45,spain,Nueva Expresion,Nueva Expresion Textil SA,ES0126962069,EUR,NXTE
+46,spain,Audax Renovables,Audax Renovables SA,ES0136463017,EUR,ADXR
+47,spain,Miquel Cost.,Miquel Cost.,ES0164180012,EUR,MCM
+48,spain,Grupo Catalana Occidente,Grupo Catalana Occidente,ES0116920333,EUR,GCO
+49,spain,Service P.S.,Service Point Solutions SA,ES0143421073,EUR,SPSL
+50,spain,ENCE,ENCE,ES0130625512,EUR,ENC
+51,spain,Construcciones y Auxiliar,Construcciones y Auxiliar de Ferrocarriles SA,ES0121975009,EUR,CAF
+52,spain,Urbas Grupo,Urbas Grupo Financiero SA,ES0182280018,EUR,UBS
+53,spain,Inmobiliaria del Sur,Inmobiliaria del Sur SA,ES0154653911,EUR,ISUR
+54,spain,Quabit,Quabit Inmobiliaria,ES0110944172,EUR,QBT
+55,spain,Lingotes,Lingotes,ES0158480311,EUR,LGT
+56,spain,Iberpapel Gestion,Iberpapel Gestion SA,ES0147561015,EUR,IBG
+57,spain,Bodegas Riojanas,Bodegas Riojanas,ES0115002018,EUR,BRIO
+58,spain,Adolfo Dominguez,Adolfo Dominguez SA,ES0106000013,EUR,ADZ
+59,spain,Realia,Realia,ES0173908015,EUR,RLIA
+60,spain,Nyesa Valores,Nyesa Valores Corporacion SA,ES0150480111,EUR,IBES
+61,spain,Clinica Baviera,Clinica Baviera,ES0119037010,EUR,CBAV
+62,spain,Reno De Medici,Reno De Medici MC,IT0001178299,EUR,RDM
+63,spain,Nicolas Correa,Nicolas Correa SA,ES0166300212,EUR,NEA
+64,spain,Cie Automotive,Cie Automotive,ES0105630315,EUR,CIEA
+65,spain,Renta 4 Banco,Renta 4 Banco SA,ES0173358039,EUR,RTA4
+66,spain,Laboratorio Reig Jofre,Laboratorio Reig Jofre SA,ES0165359029,EUR,RJFE
+67,spain,Grupo Ezentis SA,Grupo Ezentis SA,ES0172708234,EUR,EZEN
+68,spain,Duro Felguera,Duro Felguera,ES0162600003,EUR,MDF
+69,spain,Zardoya Otis,Zardoya Otis,ES0184933812,EUR,ZOT
+70,spain,Baron De Ley,Baron De Ley,ES0114297015,EUR,BDL
+71,spain,Montebalito,Montebalito SA,ES0116494016,EUR,MTBA
+72,spain,Metrovacesa,Metrovacesa SA,ES0105122024,EUR,MVC
+73,spain,NH Hoteles,NH Hoteles,ES0161560018,EUR,NHH
+74,spain,Faes Farma,Faes Farma SA,ES0134950F36,EUR,FAE
+75,spain,Tubos Reunid,Tubos Reunid,ES0180850416,EUR,TUR
+76,spain,Pescanova,Pescanova SA,ES0169350016,EUR,PVA
+77,spain,Grifols Pref,Grifols SA Pref,ES0171996095,EUR,GRLSbn
+78,spain,Biosearch,Biosearch SA,ES0172233118,EUR,BIOS
+79,spain,Viscofan,Viscofan,ES0184262212,EUR,VIS
+80,spain,Prosegur,Prosegur,ES0175438003,EUR,PSG
+81,spain,Almirall,Almirall,ES0157097017,EUR,ALM
+82,spain,Vocento,Vocento,ES0114820113,EUR,VOC
+83,spain,Vidrala,Vidrala SA,ES0183746314,EUR,VID
+84,spain,Empresarial Materiales,Corporacion Empresarial de Materiales de Construccion SA,ES0182170003,EUR,CCMC
+85,spain,Tubacex,Tubacex,ES0132945017,EUR,TUBA
+86,spain,Renta Corp,Renta Corp,ES0173365018,EUR,REN
+87,spain,Fluidra,Fluidra,ES0137650018,EUR,FLUI
+88,spain,Elecnor,Elecnor SA,ES0129743318,EUR,ENOR
+89,spain,Azkoyen,Azkoyen,ES0112458312,EUR,AZK
+90,spain,Aperam,Aperam MC,LU0569974404,EUR,APAM
+91,spain,Sniace,Sniace,ES0165380017,EUR,SNCE
+92,spain,Ercros,Ercros,ES0125140A14,EUR,ECR
+93,spain,Codere,Codere SA,ES0119256032,EUR,CDRE
+94,spain,Natra,Natra,ES0165515117,EUR,NATR
+95,spain,Amper,Amper,ES0109260531,EUR,APE
+96,spain,Airbus Group,Airbus Group,NL0000235190,EUR,AIR
+97,spain,Prim,Prim,ES0170884417,EUR,PRIM
+98,spain,Deoleo,Deoleo,ES0110047919,EUR,OLEO
+99,spain,ArcelorMittal,ArcelorMittal SA,LU1598757687,EUR,MTS
+100,spain,Abengoa B,Abengoa B,ES0105200002,EUR,ABGek
+101,spain,Liberbank,Liberbank SA,ES0168675090,EUR,LBK
+102,spain,Ebioss Energy,Ebioss Energy AD,BG1100005179,EUR,EBI
+103,spain,Entre Cua Socimi,Entre Cua Socimi,ES0131172001,EUR,YENT
+104,spain,PETROBRAS PN,Petrobras PN LA,BRPETRACNPR6,EUR,PETR4
+105,spain,America Movil,America Movil LA,MXP001691213,EUR,AMXL
+106,spain,BRADESPAR ON,Bradespar,BRBRAPACNOR5,EUR,BRPO
+107,spain,BRADESPAR PN,Bradespar Pref,BRBRAPACNPR2,EUR,BRPP
+108,spain,BRASKEM PNA,Braskem Pref A,BRBRKMACNPA4,EUR,BRKM3
+109,spain,COPEL PNB,Copel Pref B,BRCPLEACNPB9,EUR,CPLE6
+110,spain,ELETROBRAS ON,Eletrobras,BRELETACNOR6,EUR,ELTO
+111,spain,ELETROBRAS PNB,Eletrobras Pr,BRELETACNPB7,EUR,ELTB
+112,spain,PETROBRAS ON,Petrobras ON LA,BRPETRACNOR9,EUR,PETR3
+113,spain,USIMINAS ON,Usiminas,BRUSIMACNOR3,EUR,USIO
+114,spain,USIMINAS PNA,Usiminas Pna LA,BRUSIMACNPA6,EUR,USIM5
+115,spain,VALE ON,Vale SA,BRVALEACNOR0,EUR,VALO
+116,spain,Alfa,Gpo Alfa A,MXP000511016,EUR,ALFAA
+117,spain,Grupo Elektra,Grupo Elektra,MX01EL000003,EUR,ELEKTRA
+118,spain,Grupo Financiero Banorte,Grupo Banorte,MXP370711014,EUR,XNOR
+119,spain,TV Azteca Cpo,TV Azteca Cpo LA,MX01AZ060013,EUR,TVAZ
+120,spain,BBVA Banco Frances,BBVA Banco Frances SA,ARP125991090,EUR,BBAR
+121,spain,CEMIG PN,CEMIG - Companhia Energetica Minas Gerais Pref,BRCMIGACNPR3,EUR,CMIG4
+122,spain,BRADESCO PN EJ N1,Banco Bradesco SA Pref,BRBBDCACNPR8,EUR,BBDC
+123,spain,GERDAU PN N1,Gerdau SA Pref,BRGGBRACNPR8,EUR,GGBR4
+124,spain,Volcan Cmp Min,Volcan Cmp Min,PEP648014202,EUR,VOLB
+125,spain,1nkemia IUCT SA,1nkemia IUCT Group SA,ES0156303002,EUR,IKM
+126,spain,Ab-Biotics S.A.,Ab-Biotics S.A.,ES0109659013,EUR,ABBO
+127,spain,Altia Consultores S.A.,Altia Consultores S.A.,ES0113312005,EUR,ALC
+128,spain,ADL Bionatur,ADL Bionatur Solutions SA,ES0184980003,EUR,ADLB
+129,spain,Catenon S.A.,Catenon S.A.,ES0112320009,EUR,CATN
+130,spain,Euroespes S.A.,Euroespes S.A.,ES0133421000,EUR,EESP
+131,spain,Eurona Wireless Telecom S.A.,Eurona Wireless Telecom S.A.,ES0133443004,EUR,EUWT
+132,spain,Grino Ecologic S.A.,Grino Ecologic S.A.,ES0143328005,EUR,GRIE
+133,spain,Masmovil Ibercom,Masmovil Ibercom SA,ES0184696104,EUR,MASM
+134,spain,Imaginarium S.A.,Imaginarium S.A.,ES0147791018,EUR,IMGI
+135,spain,Medcom Tech S.A.,Medcom Tech S.A.,ES0161857018,EUR,MEDC
+136,spain,Neuron Bio S.A.,Neuron Bio S.A.,ES0166198012,EUR,NEUB
+137,spain,Secuoya Grupo de Comunicacion S.A.,Secuoya Grupo de Comunicacion S.A.,ES0131703003,EUR,SECU
+138,spain,eDreams Odigeo SA,eDreams Odigeo SA,LU1048328220,EUR,EDRE
+139,spain,Lar Espana Real Estate SOCIMI SA,Lar Espana Real Estate SOCIMI SA,ES0105015012,EUR,LRES
+140,spain,Applus Services SA,Applus Services SA,ES0105022000,EUR,APPS
+141,spain,Merlin Properties SA,Merlin Properties SA,ES0105025003,EUR,MRL
+142,spain,Facephi Biometria SA,Facephi Biometria SA,ES0105029005,EUR,FACE
+143,spain,Logista,Logista,ES0105027009,EUR,LOG
+144,spain,Cerbium,Cerbium Holding SA,ES0105038006,EUR,CRBHO
+145,spain,Home Meal,Home Meal,ES0105049003,EUR,HMR
+146,spain,Aena,Aena SME SA,ES0105046009,EUR,AENA
+147,spain,Uro Property Holdings,Uro Property Holdings,ES0105059002,EUR,YURO
+148,spain,NBI Bearings Europe,NBI Bearings Europe SA,ES0105062022,EUR,NBIB
+149,spain,Naturhouse Health SA,Naturhouse Health SA,ES0105043006,EUR,NTH
+150,spain,Cellnex Telecom,Cellnex Telecom SA,ES0105066007,EUR,CLNX
+151,spain,Talgo,Talgo SA,ES0105065009,EUR,TLGO
+152,spain,Euskaltel SA,Euskaltel SA,ES0105075008,EUR,EKTL
+153,spain,Fidere Patrimonio SOCIMI SA,Fidere Patrimonio SOCIMI SA,ES0105071007,EUR,YFID
+154,spain,Grenergy Renovables SA,Grenergy Renovables SA,ES0105079000,EUR,GREG
+155,spain,Inclam CO2 SA,Inclam CO2 SA,ES0105083002,EUR,INC
+156,spain,Trajano Iberia Socimi SA,Trajano Iberia Socimi SA,ES0105077004,EUR,YTRA
+157,spain,Lleidanetworks Serveis Telematics,Lleidanetworks Serveis Telematics SA,ES0105089009,EUR,LLN
+158,spain,Autonomy Spain Real Estate Socimi S,Autonomy Spain Real Estate Socimi SA,ES0105090007,EUR,YARE
+159,spain,Obsido Socimi SA,Obsido Socimi SA,ES0105074001,EUR,YOSO
+160,spain,Pharma Mar,Pharma Mar SAU,ES0169501030,EUR,PHMR
+161,spain,Gigas Hosting SA,Gigas Hosting SA,ES0105093001,EUR,GIGAH
+162,spain,Neol Biosolutions SA,Neol Biosolutions SA,ES0105081006,EUR,NEOL
+163,spain,Agile Content SA,Agile Content SA,ES0105102000,EUR,AGIL
+164,spain,Zambal Spain Socimi SA,Zambal Spain Socimi SA,ES0105080008,EUR,YZBL
+165,spain,Oryzon Genomics,Oryzon Genomics SA,ES0167733015,EUR,ORY
+166,spain,Tecnoquark Trust SA,Tecnoquark Trust SA,ES0105076006,EUR,TQT
+167,spain,Clerhp Estructuras,Clerhp Estructuras SA,ES0105121000,EUR,CLRE
+168,spain,Corpfin Capital Prime Retail III,Corpfin Capital Prime Retail III SOCIMI SA,ES0105111001,EUR,YPR3
+169,spain,Global Dominion,Global Dominion Access SA,ES0105130001,EUR,DOMI
+170,spain,Parques Reunidos,Parques Reunidos SERVICIOS CENTRALES SAU,ES0105131009,EUR,PQR
+171,spain,Jaba I Inversiones,Jaba I Inversiones Inmobiliarias Socimi SA,ES0105098000,EUR,YABA
+172,spain,Silvercode Investments,Silvercode Investments SOCIMI SA,ES0105133005,EUR,YSCI
+173,spain,Coca-Cola European,Coca-Cola European Partners PLC,GB00BDCPN049,EUR,CCEP
+174,spain,Asturias Retail,Asturias Retail and Leisure SOCIMI SAU,ES0105127007,EUR,YAST
+175,spain,Vitruvio Real Estate,Vitruvio Real Estate Socimi,ES0105139002,EUR,YVIT
+176,spain,Isc Fresh Water,Isc Fresh Water Investment SOCIMI SA,ES0105153003,EUR,YISC
+177,spain,Quonia SOCIMI,Quonia SOCIMI SA,ES0105150009,EUR,YQUO
+178,spain,Atrys Health,Atrys Health SL,ES0105148003,EUR,ATRY
+179,spain,Voztelecom Oigaa360,Voztelecom Oigaa360 SA,ES0105156006,EUR,VOZ
+180,spain,GMP Property,GMP Property SOCIMI SA,ES0105134011,EUR,YGMP
+181,spain,Optimum Re Spain,Optimum Re Spain Socimi SA,ES0105174009,EUR,YORS
+182,spain,CommCenter,CommCenter SA,ES0121071007,EUR,CMM
+183,spain,ECG,Euroconsult Engineering Consulting Group SA,ES0105042008,EUR,ECG
+184,spain,Clever Global,Clever Global SA,ES0105152005,EUR,CLE
+185,spain,Mondo TV,Mondo TV Iberoamerica SA,ES0105216008,EUR,MONIB
+186,spain,Pangaea Oncology,Pangaea Oncology SA,ES0105221008,EUR,PANGO
+187,spain,VBARE Iberian Properties,VBARE Iberian Properties SOCIMI SA,ES0105196002,EUR,YVBA
+188,spain,Ores Socimi,Olimpo Real Estate SA,ES0105224002,EUR,YORE
+189,spain,Prosegur Cash,Prosegur Cash SA,ES0105229001,EUR,CASHP
+190,spain,Neinor Homes,Neinor Homes SLU,ES0105251005,EUR,HOME
+191,spain,Gestamp Automocion,Gestamp Automocion SA,ES0105223004,EUR,GEST
+192,spain,Optimum III Value Added,Optimum III Value Added Residential SOCIMI SA,ES0105219002,EUR,YOVA
+193,spain,Asturiana de Laminados,Asturiana de Laminados SA,ES0105227005,EUR,ELZZ
+194,spain,Unicaja Banco,Unicaja Banco SA,ES0180907000,EUR,UNI
+195,spain,GGC,General De Galerias Comerciales SOCIMI SA,ES0105195004,EUR,YGGC
+196,spain,Numulae Gestion de Servicios,Numulae Gestion de Servicios SL,ES0105265005,EUR,YNUM
+197,spain,Borges Agricultural,Borges Agricultural & Industrial Nuts SA,ES0105271011,EUR,BAINS
+198,spain,AM Locales Property,AM Locales Property Socimi,ES0105272001,EUR,YAML
+199,spain,Grupo Ortiz,Grupo Ortiz Properties Socimi,ES0105273009,EUR,YGOP
+200,spain,Domo Activos,Domo Activos Socimi SA,ES0105283008,EUR,YDOM
+201,spain,Aedas Homes,Aedas Homes SL,ES0105287009,EUR,AEDAS
+202,spain,Netex Knowledge,Netex Knowledge Factory SL,ES0105270005,EUR,NTX
+203,spain,Greenalia,Greenalia,ES0105293007,EUR,GRN
+204,spain,Prevision Sanitaria,Prevision Sanitaria Nacional Gestion SOCIMI SA,ES0170756037,EUR,YPSNA
+205,spain,Student Properties,Student Properties Spain SOCIMI SA,ES0105294005,EUR,YSPS
+206,spain,Heref Habaneras,Heref Habaneras SOCIMI SA,ES0105103008,EUR,YHAB
+207,spain,Robot,Robot,ES0105225009,EUR,RBT
+208,spain,Tempore Properties,Tempore Properties Socimi,ES0105323002,EUR,YTEM
+209,spain,Serrano 61 Desarrollo,Serrano 61 Desarrollo Socimi,ES0105317004,EUR,YSRR
+210,spain,Ap67 Socimi,Ap67 Socimi,ES0105325007,EUR,YAP67
+211,spain,Tier1,Tier1 Technology S.A.,ES0105344008,EUR,TR1
+212,spain,Torbel Investmentד,Torbel Investments 2015 Socimi SA,ES0105358008,EUR,YTOR
+213,spain,Quid Pro Quo Alquiler,Quid Pro Quo Alquiler Seguro Socimi,ES0105357000,EUR,YQPQ
+214,spain,Excem Socimi,Excem Capital Partners Sociedad de Inversión Residencial,ES0105367009,EUR,YEXR
+215,spain,Castellana Properties,Castellana Properties Socimi,ES0105360004,EUR,YCPS
+216,spain,Testa Residencial,Testa Residencial Socimi,ES0105210019,EUR,YTST
+217,spain,Berkeley Energy,Berkeley Energia Ltd,AU000000BKY0,EUR,BKY
+218,spain,Alquiber Quality,Alquiber Quality SA,ES0105366001,EUR,ALQ
+219,spain,Go Madrid Benz,Go Madrid Benz Socimi SA,ES0105354007,EUR,YGOB
+220,spain,Arima Real Estate,Arima Real Estate SOCIMI SA,ES0105376000,EUR,ARM
+221,spain,Amrest,Amrest Holdings SE,ES0105375002,EUR,EATP
+222,spain,Atom Hoteles,Atom Hoteles Socimi,ES0105318002,EUR,YATO
+223,spain,Solarpack,Solarpack Corporacion Tecnologica SA,ES0105385001,EUR,SPK
+224,spain,Arrienda Rental,Arrienda Rental Properties SOCIMI SA,ES0105383006,EUR,YARP
+225,spain,Vivenio Residencial,Vivenio Residencial Socimi SA,ES0105384004,EUR,YVIV
+226,spain,Almagro Capital,Almagro Capital Socimi,ES0105389003,EUR,YAC1
+227,spain,Inmobiliaria Park Rose,Inmobiliaria Park Rose Iberoamericana SOCIMI SA,ES0105391009,EUR,YPARK
+228,spain,Euripo Properties,Euripo Properties Socimi,ES0105387007,EUR,YEPS
+229,spain,Proeduca Altus,Proeduca Altus SA,ES0105400008,EUR,PROE
+230,spain,Meridia RE III,Meridia Real Estate III Socimi SA,ES0105313003,EUR,YMRE
+231,spain,Iffe Futura,Iffe Futura SA,ES0171613005,EUR,IFFE
+232,spain,Viviendas en Alquiler,Compania Espanola de Viviendas en Alquiler SA,ES0132955008,EUR,CEV
+233,spain,Millenium Hotels,Millenium Hotels Real Estate SA,ES0105407003,EUR,YMHRE
