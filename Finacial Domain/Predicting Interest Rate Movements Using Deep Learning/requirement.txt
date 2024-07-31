@@ -1,7 +1,0 @@
-# dependencies need to install
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-scikit-learn
