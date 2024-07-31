@@ -1,0 +1,52 @@
+import pandas as pd              # importing dependencies or libraries 
+import numpy as np
+import matplotlib.pyplot as plt
+data=pd.read_csv("/kaggle/input/zomato-stock-price-prediction/zomato.csv")        # dataset from kaggle
+data.head()
+data.tail()
+data.isnull().sum()      # searching for missing values
+data.describe()
+data.info()
+x=data['Adj Close']
+plt.plot(x,label=x )
+plt.plot(data['Close'],label="Close")
+data['High - Low']=data['High'] - data['Low']    # to prdeict wheteher customer should buy or sell stock or not 
+data['Open - Close']=data['Open'] - data['Close']
+data.dropna()
+d=data[["Date","High - Low" , "Open - Close"]]      # used as an important feature from dataset for prediction
+d.head()
+res=np.where(data['Close'].shift(-1) > data['Close'], 1, -1)
+res
+X=data[['Open - Close','High - Low']]
+X
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test=train_test_split(X,res,test_size=0.2,train_size=0.8,random_state=42)
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn import neighbors
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import accuracy_score
+params={'n_neighbors':[2,3,4,5,6,7,8,9,10,11,12,13,14,15]}
+Knn=neighbors.KNeighborsClassifier()        # to classify wheteher to sell or buy stocks
+model=GridSearchCV(Knn, params, cv=6)
+model.fit(x_train, y_train)
+prediction=model.predict(x_test)
+trainacc=accuracy_score(y_train,model.predict(x_train))    # determining accuracy score
+trainacc
+prediction
+testacc=accuracy_score(y_test,prediction)
+testacc
+from sklearn.neighbors import KNeighborsRegressor
+y=data["Close"]
+y
+regx_train,regx_test,regy_train,regy_test=train_test_split(X,y,test_size=0.2,train_size=0.8,random_state=42)
+params={'n_neighbors':[2,3,4,5,6,7,8,9,10,11,12,13,14,15]}
+Knn_reg=neighbors.KNeighborsRegressor()            # used to predict Close feature in dataset
+model_reg=GridSearchCV(Knn_reg, params, cv=6)
+model_reg.fit(regx_train,regy_train)
+regy_train
+predictions=model_reg.predict(regx_test)
+predictions
+rms=np.sqrt(np.mean(np.power((np.array(regy_test)-np.array(predictions)),3)))    # to determine root squared mean error
+rms
+results=pd.DataFrame({"Actual Vlaue":regy_test, "Predicted Close Value": predictions})       # to compare actual result and predicted result
+results
