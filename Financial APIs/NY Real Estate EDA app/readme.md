@@ -1,5 +1,6 @@
 
 # Real Estate Data Visualization
+<img width="1511" alt="Screenshot 2024-08-04 at 5 55 25 PM" src="https://github.com/user-attachments/assets/093a28b7-51c5-4548-b0c1-618c2f1552b1">
 
 This project provides a simple interface for performing Exploratory Data Analysis (EDA) on a real estate dataset. The interface, built using Gradio, allows users to visualize property prices through bar plots and view basic EDA summaries.
 
