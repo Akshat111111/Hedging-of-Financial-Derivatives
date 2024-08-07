@@ -17,23 +17,24 @@ def visualize_eda(start_date, end_date):
     bar_plot_path = 'eda_plots/bar_plot.png'
     hist_plot_path = 'eda_plots/hist_plot.png'
     scatter_plot_path = 'eda_plots/scatter_plot.png'
+    pie_chart_path = 'eda_plots/pie_chart.png'
 
     # Load the data from the CSV file
     try:
         df = pd.read_csv(csv_file_path, parse_dates=True, index_col=0)
     except Exception as e:
-        return [None, None, None, None, f"Error loading CSV file: {e}"]
+        return [None, None, None, None, None, f"Error loading CSV file: {e}"]
 
     # Filter the data by the given date range
     try:
         df = df.loc[start_date:end_date]
     except Exception as e:
-        return [None, None, None, None, f"Error filtering data: {e}"]
+        return [None, None, None, None, None, f"Error filtering data: {e}"]
 
     # Check for and handle non-numeric columns
     df_numeric = df.select_dtypes(include=['float64', 'int64'])
     if df_numeric.empty:
-        return [None, None, None, None, "Error: No numeric data found in CSV file."]
+        return [None, None, None, None, None, "Error: No numeric data found in CSV file."]
 
     # Plot 1: Line plot of all numerical features
     try:
@@ -47,7 +48,7 @@ def visualize_eda(start_date, end_date):
         plt.savefig(line_plot_path)
         plt.close()
     except Exception as e:
-        return [None, None, None, None, f"Error generating line plot: {e}"]
+        return [None, None, None, None, None, f"Error generating line plot: {e}"]
 
     # Plot 2: Bar plot of average values per month
     try:
@@ -60,7 +61,7 @@ def visualize_eda(start_date, end_date):
         plt.savefig(bar_plot_path)
         plt.close()
     except Exception as e:
-        return [None, None, None, None, f"Error generating bar plot: {e}"]
+        return [None, None, None, None, None, f"Error generating bar plot: {e}"]
 
     # Plot 3: Histogram of numerical features
     try:
@@ -70,7 +71,7 @@ def visualize_eda(start_date, end_date):
         plt.savefig(hist_plot_path)
         plt.close()
     except Exception as e:
-        return [None, None, None, None, f"Error generating histogram: {e}"]
+        return [None, None, None, None, None, f"Error generating histogram: {e}"]
 
     # Plot 4: Scatter plot matrix of numerical features
     try:
@@ -81,10 +82,22 @@ def visualize_eda(start_date, end_date):
         plt.savefig(scatter_plot_path)
         plt.close()
     except Exception as e:
-        return [None, None, None, None, f"Error generating scatter plot matrix: {e}"]
+        return [None, None, None, None, None, f"Error generating scatter plot matrix: {e}"]
+
+    # Plot 5: Pie chart of the distribution of average values
+    try:
+        plt.figure(figsize=(12, 6))
+        avg_values = df_numeric.mean()
+        avg_values.plot(kind='pie', autopct='%1.1f%%', startangle=140)
+        plt.title('Distribution of Average Values')
+        plt.ylabel('')
+        plt.savefig(pie_chart_path)
+        plt.close()
+    except Exception as e:
+        return [None, None, None, None, None, f"Error generating pie chart: {e}"]
 
     # Return paths to generated plots
-    return [line_plot_path, bar_plot_path, hist_plot_path, scatter_plot_path, None]
+    return [line_plot_path, bar_plot_path, hist_plot_path, scatter_plot_path, pie_chart_path, None]
 
 # Define the Gradio interface
 iface = gr.Interface(
@@ -98,6 +111,7 @@ iface = gr.Interface(
         gr.Image(type="filepath", label="Bar Plot"),
         gr.Image(type="filepath", label="Histogram"),
         gr.Image(type="filepath", label="Scatter Plot Matrix"),
+        gr.Image(type="filepath", label="Pie Chart"),
         gr.Textbox(label="Error Message", type="text")  # Add a textbox for error messages
     ],
     live=False  # This will add an explicit "Submit" button
