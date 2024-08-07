@@ -2,6 +2,7 @@ Here's a sample `README.md` file for your project:
 
 ```markdown
 # Real Estate Data Visualization
+<img width="1554" alt="image" src="https://github.com/user-attachments/assets/9f520599-1388-436c-b783-1ef4a8c0fb12">
 
 This project provides a simple interface for performing Exploratory Data Analysis (EDA) on a real estate dataset. The interface, built using Gradio, allows users to visualize property prices through bar plots and view basic EDA summaries.
 
