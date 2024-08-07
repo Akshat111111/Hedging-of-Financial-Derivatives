@@ -1,8 +1,8 @@
 
 
 # stocks Visualization App
+<img width="790" alt="Screenshot 2024-08-07 at 1 15 26 PM" src="https://github.com/user-attachments/assets/09f6dbf2-96b0-4efe-9ec5-e6a92b73480a">
 
-![alt text](<Screenshot 2024-08-03 at 1.18.03 AM.png>)
 
 
 This application provides interactive visualizations of numerical data from a CSV file using Gradio. The application allows users to view line plots and bar charts for the specified date range.
