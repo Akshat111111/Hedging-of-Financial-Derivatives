@@ -20,9 +20,13 @@ def visualize_eda(start_date, end_date):
 
     # Load the data from the CSV file
     try:
-        df = pd.read_csv(csv_file_path, parse_dates=True, index_col=0)
+        df = pd.read_csv(csv_file_path)
+        df['Date'] = pd.to_datetime(df['Date'], format='%d-%b-%y')
     except Exception as e:
         return [None, None, None, None, f"Error loading CSV file: {e}"]
+
+    # Sort the DataFrame by the date index
+    df = df.set_index('Date').sort_index()
 
     # Filter the data by the given date range
     try:
@@ -90,8 +94,8 @@ def visualize_eda(start_date, end_date):
 iface = gr.Interface(
     fn=visualize_eda,
     inputs=[
-        gr.Textbox(label="Start Date (YYYY-MM-DD)", value="2002-01-02"),
-        gr.Textbox(label="End Date (YYYY-MM-DD)", value="2022-10-10")
+        gr.Textbox(label="Start Date (YYYY-MM-DD)", value="2014-01-01"),
+        gr.Textbox(label="End Date (YYYY-MM-DD)", value="2015-12-31")
     ],
     outputs=[
         gr.Image(type="filepath", label="Line Plot"),
