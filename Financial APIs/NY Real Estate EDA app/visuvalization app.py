@@ -4,7 +4,7 @@ import seaborn as sns
 import gradio as gr
 
 # Load the CSV file
-data_path = 'MELBOURNE_HOUSE_PRICES_LESS.csv'
+data_path = 'NY-House-Dataset.csv'
 
 
 def load_data():
