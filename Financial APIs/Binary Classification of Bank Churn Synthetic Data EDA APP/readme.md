@@ -2,7 +2,8 @@
 
 # stocks Visualization App
 
-![alt text](<Screenshot 2024-08-03 at 1.18.03 AM.png>)
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/ffe37473-0d93-4f9b-951f-a544a9283fc2">
+
 
 
 This application provides interactive visualizations of numerical data from a CSV file using Gradio. The application allows users to view line plots and bar charts for the specified date range.
@@ -23,7 +24,7 @@ pip install pandas matplotlib gradio
 ```
 
 ## Usage
-1. **Prepare Your Data**: Ensure your CSV file (`Qualcomm.csv`) is in the same directory as this script. The CSV should have a date column as the index and numerical columns for plotting.
+1. **Prepare Your Data**: Ensure your CSV file is in the same directory as this script. The CSV should have a date column as the index and numerical columns for plotting.
 
 2. **Run the App**: Execute the script to launch the Gradio interface:
     ```bash
