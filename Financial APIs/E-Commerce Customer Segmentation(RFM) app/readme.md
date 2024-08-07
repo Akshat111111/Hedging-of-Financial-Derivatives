@@ -23,7 +23,7 @@ pip install pandas matplotlib gradio
 ```
 
 ## Usage
-1. **Prepare Your Data**: Ensure your CSV file (`Qualcomm.csv`) is in the same directory as this script. The CSV should have a date column as the index and numerical columns for plotting.
+1. **Prepare Your Data**: Ensure your CSV file is in the same directory as this script. The CSV should have a date column as the index and numerical columns for plotting.
 
 2. **Run the App**: Execute the script to launch the Gradio interface:
     ```bash
