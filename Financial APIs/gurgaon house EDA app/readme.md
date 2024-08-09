@@ -1,53 +1,102 @@
+<img width="790" alt="Screenshot 2024-08-07 at 1 15 26 PM" src="https://github.com/user-attachments/assets/3ff664e0-c6ca-46a1-9b2b-71e41e4f8ca1">Here's a sample `README.md` file for your project:
+
+markdown
+# Real Estate Data Visualization
 
 
-# Walmart stocks Visualization App
 
-![alt text](<Screenshot 2024-08-03 at 1.18.03 AM.png>)
-
-
-This application provides interactive visualizations of numerical data from a CSV file using Gradio. The application allows users to view line plots and bar charts for the specified date range.
+This project provides a simple interface for performing Exploratory Data Analysis (EDA) on a real estate dataset. The interface, built using Gradio, allows users to visualize property prices through bar plots and view basic EDA summaries.
 
 ## Features
-- **Line Plot**: Displays trends for all numerical features over time.
-- **Bar Plot**: Shows the average values of numerical features per month.
 
-## Requirements
-- Python 3.x
-- `pandas`
-- `matplotlib`
-- `gradio`
+- Load and filter real estate data based on maximum price.
+- Visualize average property prices by locality using bar plots.
+- Display basic EDA summary statistics for the filtered data.
 
-You can install the required packages using:
-```bash
-pip install pandas matplotlib gradio
+## Prerequisites
+
+- Python 3.7+
+- Required Python packages (install via `pip install -r requirements.txt`):
+  - pandas
+  - matplotlib
+  - seaborn
+  - gradio
+
+## Getting Started
+
+### 1. Clone the Repository
+
+`sh
+git clone https://github.com/your-username/real-estate-eda.git
+cd real-estate-eda
 ```
 
+### 2. Install Dependencies
+
+Install the required Python packages using pip:
+
+```sh
+pip install -r requirements.txt
+```
+
+### 3. Prepare the Dataset
+
+Ensure the real estate data is saved in a CSV file named `real_estate_data.csv` in the same directory as the script. The CSV should have the following structure:
+
+```csv
+bhk,type,locality,area,price,price_unit,region,status,age
+3,Apartment,Lak And Hanware The Residency Tower,685,2.50,Cr,Andheri West,Ready to move,New
+2,Apartment,Radheya Sai Enclave Building No 2,640,52.51,L,Naigaon East,Under Construction,New
+2,Apartment,Romell Serene,610,1.73,Cr,Borivali West,Under Construction,New
+2,Apartment,Soundlines Codename Urban Rainforest,876,59.98,L,Panvel,Under Construction,New
+2,Apartment,Origin Oriana,659,94.11,L,Mira Road East,Under Construction,New
+```
+
+### 4. Run the Script
+
+Execute the script to start the Gradio interface:
+
+```sh
+python real_estate_eda.py
+```
+
+### 5. Access the Interface
+
+After running the script, a link will be provided in the terminal. Open this link in your web browser to access the interface.
+
 ## Usage
-1. **Prepare Your Data**: Ensure your CSV file  is in the same directory as this script. The CSV should have a date column as the index and numerical columns for plotting.
 
-2. **Run the App**: Execute the script to launch the Gradio interface:
-    ```bash
-    python your_script_name.py
-    ```
-   Replace `your_script_name.py` with the name of your Python script.
-
-3. **Interact with the App**:
-   - Enter the **Start Date** and **End Date** in the format `YYYY-MM-DD`.
-   - Click **Submit** to generate the plots.
-   - View the generated **Line Plot** and **Bar Plot**.
+1. **Enter the maximum price** you are interested in (in Lakhs).
+2. **View the results**:
+   - A bar plot showing the average property prices for localities where the prices are below the specified max price.
+   - A textual summary of basic EDA statistics for the filtered dataset.
 
 ## Example
-For a CSV file with the following columns: `Date`, `Feature1`, `Feature2`, the app will generate:
-- **Line Plot**: Trends of `Feature1` and `Feature2` over the selected date range.
-- **Bar Plot**: Monthly averages of `Feature1` and `Feature2`.
 
-## Troubleshooting
-- **No Numeric Data Error**: Ensure your CSV contains numeric data and the index column is of date type.
-- **Plot Generation Error**: Check if the date range covers the data present in the CSV file.
+**Input**: Max Price (in L): 60
+
+**Output**: 
+- A bar plot showing average property prices for localities where the prices are below 60 L.
+- A summary of basic EDA statistics for the filtered dataset.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+This project is licensed under the MIT License.
+```
 
-Feel free to adjust the content as needed!
+### requirements.txt
+
+To ensure all necessary packages are installed, create a `requirements.txt` file:
+
+##txt
+pandas
+matplotlib
+seaborn
+gradio
+
+
+By following these instructions, you'll have a functioning Gradio interface for performing basic EDA on your real estate dataset.
