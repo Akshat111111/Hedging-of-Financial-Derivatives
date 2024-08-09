@@ -1,6 +1,6 @@
 
 
-# Walmart stocks Visualization App
+# stocks Visualization App
 
 <img width="779" alt="image" src="https://github.com/user-attachments/assets/8ea2e154-2151-4ef2-ab48-2ddfe668617d">
 
