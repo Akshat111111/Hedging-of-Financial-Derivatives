@@ -1,5 +1,8 @@
 Here's a sample `README.md` file for your project:
 
+<img width="1554" alt="Screenshot 2024-08-07 at 11 02 22 AM" src="https://github.com/user-attachments/assets/1fd26c19-3c89-4288-b909-81327fdb39bd">
+
+
 ```markdown
 # Real Estate Data Visualization
 Screenshot 2024-08-04 at 5.55.25 PM.png
