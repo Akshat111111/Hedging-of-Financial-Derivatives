@@ -2,7 +2,8 @@
 
 #  stocks Visualization App
 
-<img width="790" alt="Screenshot 2024-08-07 at 1 15 26 PM" src="https://github.com/user-attachments/assets/a70104cf-f48e-4dee-9499-c1d2b578e4c4">
+<img width="790" alt="Screenshot 2024-08-07 at 1 15 26 PM" src="https://github.com/user-attachments/assets/cca6a6b1-3b0a-41cb-9d2b-5b99ebaef2f1">
+
 
 
 
