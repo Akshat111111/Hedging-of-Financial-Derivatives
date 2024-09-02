@@ -1,8 +1,8 @@
 
 
-# Walmart stocks Visualization App
+#  stocks Visualization App
+<img width="779" alt="Screenshot 2024-08-09 at 7 30 18 PM" src="https://github.com/user-attachments/assets/50bbb7b0-353b-425c-8ec5-cefdc9d3c855">
 
-![alt text](<Screenshot 2024-08-03 at 1.18.03 AM.png>)
 
 
 This application provides interactive visualizations of numerical data from a CSV file using Gradio. The application allows users to view line plots and bar charts for the specified date range.
