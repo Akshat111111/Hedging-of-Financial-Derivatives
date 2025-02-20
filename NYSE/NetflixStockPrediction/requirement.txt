@@ -1,0 +1,8 @@
+## dependencies needs to install 
+numpy==1.23.1
+pandas==1.4.0
+scikit-learn==1.1.1
+matplotlib==3.5.1
+seaborn==0.11.2
+tensorflow==2.9.1  # or tensorflow-gpu for GPU support
+jupyterlab==4.2.2   # optional, if using Jupyter Notebooks
