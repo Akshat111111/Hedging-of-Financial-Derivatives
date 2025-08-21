@@ -1,9 +1,0 @@
-## Requirements
-
-- Python 3.x
-- TensorFlow
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
